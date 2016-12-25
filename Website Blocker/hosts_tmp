@@ -1,0 +1,22 @@
+##
+# Host Database
+#
+# localhost is used to configure the loopback interface
+# when the system is booting.  Do not change this entry.
+##
+127.0.0.1	localhost
+255.255.255.255	broadcasthost
+::1             localhost
+172.16.23.153	hdpdemo.local
+172.16.23.158	master	namenode1
+172.16.23.159	master2	namenode2
+172.16.23.160	dn1
+172.16.23.161	dn2
+172.16.23.162	dn3
+172.16.23.163	monitor
+172.16.23.164	kdcsystem
+172.16.23.165	hadoopsecurity
+172.16.23.158	security
+172.16.23.153	cdh1
+172.16.23.166	cdh2
+172.16.23.167	cdh3
